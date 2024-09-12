@@ -71,6 +71,13 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 - Imprtação de módulos (require, CommonJS)
 - Biblioteca 'inquirer' para cirar prompts interativos
+- FS (file system)
+
+## JSON
+
+- Javascript Object Notation
+- JSON.parse(): transforma de JSON para JS
+- JSON.stringify(): transforma de JS para JSON
 
 ## Programação assíncrona e Promises:
 
